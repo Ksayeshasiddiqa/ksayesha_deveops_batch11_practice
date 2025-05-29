@@ -1,2 +1,2 @@
-Initial file
+Conflicting line from remote_two branch
 Line from remote_one branch
