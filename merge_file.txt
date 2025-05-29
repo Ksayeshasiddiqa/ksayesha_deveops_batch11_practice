@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is content from main branch
+=======
+This is content from merge_practice branch
+>>>>>>> merge_practice
